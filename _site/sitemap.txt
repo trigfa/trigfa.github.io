@@ -1,12 +1,12 @@
 
-http://blog.trigfa.org.uk/sitemap.txt
-http://blog.trigfa.org.uk/atom.xml
-http://blog.trigfa.org.uk/index.html
 http://blog.trigfa.org.uk/archive.html
-http://blog.trigfa.org.uk/pages.html
-http://blog.trigfa.org.uk/rss.xml
+http://blog.trigfa.org.uk/sitemap.txt
+http://blog.trigfa.org.uk/index.html
 http://blog.trigfa.org.uk/tags.html
 http://blog.trigfa.org.uk/categories.html
+http://blog.trigfa.org.uk/pages.html
+http://blog.trigfa.org.uk/atom.xml
+http://blog.trigfa.org.uk/rss.xml
 
 http://blog.trigfa.org.uk/siteupdate/2014/01/03/about-me
 http://blog.trigfa.org.uk/siteupdate/2014/01/02/hello-there
