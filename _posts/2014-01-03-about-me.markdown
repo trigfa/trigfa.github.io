@@ -14,6 +14,8 @@ I have worked in the [NHS] (http://www.keepournhspublic.com/index.php "Save the 
 I know some [Python] (http://www.python.org), For interactive data processing and visualisation I use [iPython](http://ipython.org).  Some of my hacked together nonsense is available via my [Github](https://github.com/trigfa) pages 
 although little of it is likely to prove useful to anyone else.
 
-My other intersets include music, comedy, [running](http://www.abergeleharriers.co.uk/ASH.htm "..although my running could be describes as comedy") and hill walking
+My other intersets include music, comedy, [running](http://www.abergeleharriers.co.uk/ASH.htm "..although my running could be described as comedy") and hill walking
 
-All posts are made in a purely personal capacity, are strictly my own opinion and none of my employers business. No pop, no style, strictly roots...
+All posts are made in a purely personal capacity, are strictly my own opinion and none of my employers business. 
+
+No pop, no style, strictly roots...
